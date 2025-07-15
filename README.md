@@ -1,5 +1,5 @@
 
-# 🌬️ AirVana: AI-Powered Air Quality Intelligence and Awareness Platform
+# AirVana: AI-Powered Air Quality Intelligence and Awareness Platform
 
 ## Overview
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 🔧 Technology Stack
+##  Technology Stack
 
 ### Frontend
 - **React.js** – Dynamic, responsive UI
@@ -44,7 +44,7 @@
 
 ---
 
-## 🌟 Core Features
+##  Core Features
 
 ### 1. Real-Time Air Quality Monitoring
 - Live AQI data for pollutants (PM2.5, PM10, CO, NO₂, SO₂, O₃)
@@ -86,52 +86,49 @@
 
 ---
 
-## 🤖 Advanced AI Modules
+##  Advanced AI Modules
 
-### 📷 PolluScan: Visual Pollution Detector
+###  PolluScan: Visual Pollution Detector
 - Upload photos of the environment
 - Gemini AI detects pollution features (smog, green cover)
 - Outputs multilingual summaries
 
-### 🧠 Healthify AI
+###  Healthify AI
 - Health suggestions based on local AQI + user health history
 - Adaptive advice for conditions like asthma or allergies
 
-### 📰 Eco News Aggregator
+###  Eco News Aggregator
 - Filters environmental news by topic and sentiment
 - User-customizable keyword alerts and relevance scores
 
-### 🗣️ Airi: Voice & Text Assistant
+###  Airi: Voice & Text Assistant
 - Natural language assistant using Gemini AI
 - Handles site navigation, AQI education, and environment FAQs
 
-### 🎙️ AiraSpeaks: Podcast Generator
-- Converts environmental insights into audio episodes
-- Multiple presentation modes (news anchor, educator, narrator)
 
-### 🌍 EarthLens: Natural Event Tracker
+###  EarthLens: Natural Event Tracker
 - Real-time map of wildfires, volcanic activity, dust storms (via NASA EONET)
 - Interactive overlays and filtering
 
-### ♻️ EcoImpact: Lifestyle Simulator
+###  EcoImpact: Lifestyle Simulator
 - Users simulate environmental effects of choices (travel, food, electricity)
 - Generates impact charts and eco-friendly suggestions
 
 ---
 
-## 🧬 NLP & Machine Learning Systems
+##  NLP & Machine Learning Systems
 
-### 🧾 Pollution News Sentiment Dashboard
+###  Pollution News Sentiment Dashboard
 - Extracts and analyzes article sentiment
 - Abstractive summarization
 - Word clouds, bigrams/trigrams
 
-### 🔮 AQI Forecasting Engine
+###  AQI Forecasting Engine
 - Predicts AQI using weather + pollution data
 - Built with Random Forest classifier
 - Flask microservice for asynchronous access
 
-### 🏥 Health Impact Classifier
+###  Health Impact Classifier
 - Uses SVM to forecast health risks (respiratory/cardiovascular)
 - Geographically and demographically tuned
 
